@@ -1,5 +1,5 @@
 matplotlib==2.1.0
-numpy==1.16.1
+numpy==1.22.0
 Pillow==4.2.1
 scipy==1.2.0
 torch==0.4.1
